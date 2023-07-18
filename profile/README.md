@@ -5,7 +5,7 @@
 Esta organización de Github se usara para las sesiones de trabajo y ejercicios que se realicen y poder llevar un control de los mismos. /
 This Github organization will be used for the work sessions and exercises that will be carried out and will be able to carry out a control of them.
 
-🍿 Datos curiosos: ¿Sera posible divertiste al desarrollar software? / Fun facts: Is it possible to have fun while developing software?
+🍿 Datos curiosos: ¿Será posible divertiste al desarrollar software? / Fun facts: Is it possible to have fun while developing software?
 
 🧙 Recuerda, puedes hacer cosas poderosas con el poder de [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) / Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <!--
