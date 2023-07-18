@@ -1,2 +1,3 @@
-# .github
-Cuenta del Profesor Ivan Santiago Méndez
+# Github Repo conguration
+
+Repo de configuración del Profesor Ivan Santiago Méndez
