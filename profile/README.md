@@ -1,6 +1,6 @@
 ## Hola a todos / Hi there 👋
 
-🙋‍♀️ Una breve introducción: ¿de qué se trata su organización? / A short introduction - what is your organization all about?
+🙋‍♀️ Este es el espacio de trabajo para el Profesor Ivan Santiago Mendez / Teacher Ivan Santiago Mendez Workspace
 
 Esta organización de Github se usara para las sesiones de trabajo y ejercicios que se realicen y poder llevar un control de los mismos. /
 This Github organization will be used for the work sessions and exercises that will be carried out and will be able to carry out a control of them.
